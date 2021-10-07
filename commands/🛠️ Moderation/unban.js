@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 
     module.exports = {
-  name: "unban1",
+  name: "unban",
   aliases: [],
   execute: async(client, message, args, data, db) => {
   if (!message.member.hasPermission("BAN_MEMBERS"))
