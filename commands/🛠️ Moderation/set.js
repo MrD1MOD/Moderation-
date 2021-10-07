@@ -3,8 +3,8 @@ const guilds = require('../../data/guilds');
 
 
 module.exports = {
-  name: "gset",
-  aliases: ["gprefix", "gset-prefix", "gprefix-set"],
+  name: "set",
+  aliases: ["prefix", "set-prefix", "prefix-set"],
   execute: async(client, message, args) => {
   
   
