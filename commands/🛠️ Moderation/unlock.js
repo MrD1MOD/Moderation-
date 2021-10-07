@@ -1,5 +1,5 @@
     module.exports = {
-  name: "unlock1",
+  name: "unlock",
   aliases: [],
   execute: async(client, message, args, data, db) => {
    
